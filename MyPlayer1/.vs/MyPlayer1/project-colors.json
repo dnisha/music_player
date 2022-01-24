@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deefda7a-2597-4a44-bb0d-3b91e2941ac1": {
+      "ProjectGuid": "deefda7a-2597-4a44-bb0d-3b91e2941ac1",
+      "DisplayName": "MyPlayer1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

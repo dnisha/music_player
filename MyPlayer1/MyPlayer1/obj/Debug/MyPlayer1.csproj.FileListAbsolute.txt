@@ -1,0 +1,36 @@
+D:\.NetPractice\MyPlayer1\MyPlayer1\bin\Debug\MyPlayer1.exe.config
+D:\.NetPractice\MyPlayer1\MyPlayer1\bin\Debug\MyPlayer1.exe
+D:\.NetPractice\MyPlayer1\MyPlayer1\bin\Debug\MyPlayer1.pdb
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.AssemblyReference.cache
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.SuggestedBindingRedirects.cache
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.Form1.resources
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.Properties.Resources.resources
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.GenerateResource.cache
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.CoreCompileInputs.cache
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.exe
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.pdb
+D:\.NetPractice\MyPlayer1\MyPlayer1\bin\Debug\Interop.WMPLib.dll
+D:\.NetPractice\MyPlayer1\MyPlayer1\bin\Debug\AxInterop.WMPLib.dll
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\Interop.WMPLib.dll
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\AxInterop.WMPLib.dll
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.ResolveComReference.cache
+D:\.NetPractice\MyPlayer1\MyPlayer1\bin\Debug\taglib-sharp.dll
+D:\.NetPractice\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.CopyComplete
+D:\.Net Project\MyPlayer1\MyPlayer1\bin\Debug\MyPlayer1.exe.config
+D:\.Net Project\MyPlayer1\MyPlayer1\bin\Debug\MyPlayer1.exe
+D:\.Net Project\MyPlayer1\MyPlayer1\bin\Debug\MyPlayer1.pdb
+D:\.Net Project\MyPlayer1\MyPlayer1\bin\Debug\taglib-sharp.dll
+D:\.Net Project\MyPlayer1\MyPlayer1\bin\Debug\Interop.WMPLib.dll
+D:\.Net Project\MyPlayer1\MyPlayer1\bin\Debug\AxInterop.WMPLib.dll
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.AssemblyReference.cache
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.SuggestedBindingRedirects.cache
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\Interop.WMPLib.dll
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\AxInterop.WMPLib.dll
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.ResolveComReference.cache
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.Form1.resources
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.Properties.Resources.resources
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.GenerateResource.cache
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.CoreCompileInputs.cache
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.csproj.CopyComplete
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.exe
+D:\.Net Project\MyPlayer1\MyPlayer1\obj\Debug\MyPlayer1.pdb
